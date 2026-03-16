@@ -1,4 +1,4 @@
-# Typing Speed Tester (C)
+# Typing Speed Tester in (C)
 
 A console-based typing speed tester written in C.  
 The program measures typing speed (WPM) and accuracy by comparing user input with predefined sentences.

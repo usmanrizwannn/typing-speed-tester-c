@@ -1,0 +1,41 @@
+# Typing Speed Tester (C)
+
+A console-based typing speed tester written in C.  
+The program measures typing speed (WPM) and accuracy by comparing user input with predefined sentences.
+
+## Features
+
+- Random sentence selection
+- Countdown before typing begins
+- Words Per Minute (WPM) calculation
+- Accuracy percentage calculation
+- Multiple rounds with average results
+
+## Demo
+
+Example output:
+
+=== Advanced Typing Speed Test ===
+
+Round 1/3  
+Type this sentence:  
+The quick brown fox jumps over the lazy dog.
+
+Time: 8.23 sec  
+WPM: 56  
+Accuracy: 97.4%
+
+## How It Works
+
+1. User selects number of rounds.
+2. Program randomly selects a sentence.
+3. Timer starts when the user begins typing.
+4. Program calculates:
+   - Words Per Minute
+   - Accuracy
+   - Average score after all rounds.
+
+## Compilation
+
+Clone the repository:
+https://github.com/usmanrizwannn/typing-speed-tester-c.git
